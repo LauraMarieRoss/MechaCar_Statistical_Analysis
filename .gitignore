@@ -13,7 +13,6 @@ ehthumbs_vista.db
 # Folder config file
 [Dd]esktop.ini
 *.ini
-*.gitattributes
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
